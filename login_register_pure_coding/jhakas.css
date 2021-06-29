@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://envato-shoebox-0.imgix.net/6fe6/c858-bf7d-43d9-91be-bca4eb39ca42/1-05673.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=590865c9e89ea570da2f98188c4790ef");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+
+}
+.logo{
+    width: 50px;
+    cursor: pointer;
+}
+.navbar {
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    font-size: 30px;
+    color: #fbfcfb;
+    padding: 15px 30px ; 
+    background:transparent;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+}
+.content{
+    color: #fbfcfb;
+    position: absolute;
+    top:50%;
+    left: 8%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.content small{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    margin: 10px 0 30px ;
+    line-height: 80px;
+}
+
+h1{ 
+    font-size: 95px;
+margin: 10px 0 30px ;
+line-height: 80px;
+}
+
+h2{ 
+    font-size: 95px;
+margin: 10px 0 30px ;
+line-height: 80px;
+text-transform: capitalize;
+}
+.side-bar{
+    width: 50px;
+    height:100vh;
+    background: linear-gradient(#00545d,#000729);
+    position: absolute;
+    right: 0;
+    top:0;
+}
+.menu{
+    display:block;
+    width: 25px;
+    margin: 40px auto 0;
+    cursor: pointer;
+
+}
+.strawberry img{
+    width: 50px;
+animation:strawberry 7s linear infinite ;
+}
+.strawberry  {
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+}
+@keyframes strawberry {
+    0%{
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    50%{
+        
+        opacity: 1;    
+    }
+
+    70%{
+        
+        opacity: 1;      
+    }
+
+    100%{
+        transform: translateY(-80vh);
+        opacity: 0;        
+    }
+
+   
+}
+.strawberry img:nth-child(1){
+    animation-delay:2s;  
+}
+
+.strawberry img:nth-child(2){
+    animation-delay:1s;  
+}
+
+.strawberry img:nth-child(3){
+    animation-delay:3s;  
+}
+
+.strawberry img:nth-child(4){
+    animation-delay:4.5s;  
+}
+
+.strawberry img:nth-child(5){
+    animation-delay:3s;  
+}
+
+.strawberry img:nth-child(6){
+    animation-delay:6s;  
+}
+
+.strawberry img:nth-child(7){
+    animation-delay:7s;  
+}
