@@ -13,10 +13,10 @@ Here are two folder you have to paste this folder in:
 C: >> xampp >> htdocs
 
 So These are the databases name which are used in the food ordering system.
-login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
-shopping-cart -> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
+1. login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
+2. shopping-cart OR cart_system-> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
 
-# cart_name
+# cart_system
 This is shopping-cart database.
 #Interface 1:
 <img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
