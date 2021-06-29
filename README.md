@@ -1,1 +1,83 @@
 # Food-Point
+This is the food ordering website. In this we have used these technologies:
+1. PHP
+2. CSS
+3. Javascript
+4. My Sql
+5. HTML
+Software needed for this:
+1. xampp - For database
+2. IDE Or Text - Editor for coding(I have used - Visual studio Code).
+
+Here are two folder you have to paste this folder in: 
+C: >> xampp >> htdocs
+
+So These are the databases name which are used in the food ordering system.
+login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
+shopping-cart -> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
+
+# cart_name
+This is shopping-cart database.
+Interface 1:
+<img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
+In this there are 3 tables:
+1. cart -> This will show items currently present in a user cart.
+2. orders -> This is storing the informatio of address, name, email and phone.
+3. product -> This is where we store products name, products price, product image, product code and id.
+
+Interface 2 structure of cart:
+<img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
+In this we have created 7 column name:
+1. id -> Auto increment, primary key 
+2. product_name 
+3. product_price
+4. product_image
+5. qty
+6. total price
+7. product_code
+
+Interface 3 structure of orders:
+<img width="960" alt="g3" src="https://user-images.githubusercontent.com/71979122/123843160-36bd5480-d92f-11eb-95a5-a5ef164555f3.png">
+
+In this we have created 8 column name:
+1. id -> Auto increment, primary key 
+2. name
+3. email 
+4. phone 
+5. address 
+6. pmode
+7. products
+8. amount_paid
+
+Interface 4 structure of products:
+<img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
+
+Here you have to add products details
+In this we have created 5 coloumn name
+1. id -> Auto increment, primary key 
+2. product_name
+3. product_price 
+4. product_image
+5. product_code
+Note(apply for all structure and interface ): id is int and rest are varchar.
+Here are the some list of products which I have added
+<img width="960" alt="g4" src="https://user-images.githubusercontent.com/71979122/123843723-d7137900-d92f-11eb-9c37-e7102c967b8e.png">
+
+
+# login_register_pure_coding
+Interface 1 table in database:
+<img width="960" alt="g6" src="https://user-images.githubusercontent.com/71979122/123844575-d62f1700-d930-11eb-93fe-f54b452474d8.png">
+Only 1 table that is users.
+
+Interface 2 values in users:
+<img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
+
+Here in it we will store the value inputed in register information.
+In this table value will increase when we ever new user will be registered.
+
+This Project Is Made By
+1. Subhadip Patra 
+2. Ananya Singh
+3. Rohit Saw
+4. Harsh
+
