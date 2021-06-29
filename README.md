@@ -75,7 +75,7 @@ Only 1 table that is users.
 Here in it we will store the value inputed in register information.
 In this table value will increase when we ever new user will be registered.
 
-#This Project Is Made By
+# This Project Is Made By
 1. Subhadip Patra 
 2. Ananya Singh
 3. Rohit Saw
