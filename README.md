@@ -3,14 +3,12 @@
 ## 🍦 Website Demo In 3 Parts:
 
 ### 🍰 Login Page:
-![gif1](https://user-images.githubusercontent.com/71979122/123917652-a6b7f300-d9a0-11eb-8724-e9fae5f13952.gif)
+![web1](https://user-images.githubusercontent.com/71979122/123946361-be9d7000-d9bc-11eb-8bb8-c08e1459267f.gif)
 
-### 🍫 Food Items And Add To Cart
-![gif 2 (1)](https://user-images.githubusercontent.com/71979122/123918888-f4812b00-d9a1-11eb-9435-fe964b28c8ff.gif)
+### 🍫 Food Items, Add To Cart, Thank You Page and Log Out
+![web 2](https://user-images.githubusercontent.com/71979122/123946556-f7d5e000-d9bc-11eb-8a5b-eea10211a1aa.gif)
 
 
-### 🍿 Thank You Page and Log Out
-![gif3 `](https://user-images.githubusercontent.com/71979122/123917869-e54dad80-d9a0-11eb-931c-dbe98095e0a0.gif)
 
 # Food-Point 🍪
 
