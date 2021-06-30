@@ -16,14 +16,15 @@
 
 #### So These are the databases name which are used in the food ordering system.
 
-* login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
-* shopping-cart OR cart_system-> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
+* login_register_pure_coding: This database name is used for taking login information and collecting data for register user.
+* shopping-cart OR cart_system: This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
 
 # 🚀 cart_system
 This is shopping-cart database.
 ### 👉 Interface 1:
 <img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
-In this there are 3 tables:
+
+#### 🍧 In this there are 3 tables:
 
 * cart -> This will show items currently present in a user cart.
 * orders -> This is storing the informatio of address, name, email and phone.
@@ -44,7 +45,7 @@ In this we have created 7 column name:
 ### 👉 Interface 3 structure of orders:
 <img width="960" alt="g3" src="https://user-images.githubusercontent.com/71979122/123843160-36bd5480-d92f-11eb-95a5-a5ef164555f3.png">
 
- In this we have created 8 column name:
+#### 🍕 In this we have created 8 column name:
  
 1. id -> Auto increment, primary key 
 2. name
@@ -59,7 +60,7 @@ In this we have created 7 column name:
 Here you have to add products details
 
 <img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
-In this we have created 5 coloumn name:
+#### 🍕 In this we have created 5 coloumn name:
 
 1. id -> Auto increment, primary key 
 2. product_name
@@ -75,7 +76,7 @@ In this we have created 5 coloumn name:
 ### 👉 Interface 1 table in database:
 <img width="960" alt="g6" src="https://user-images.githubusercontent.com/71979122/123844575-d62f1700-d930-11eb-93fe-f54b452474d8.png">
 
-Only 1 table that is users.
+#### 🍧 Only 1 table that is users.
 
 ### 👉 Interface 2 values in users:
 
@@ -83,20 +84,20 @@ So here is the structure of users:
 
 <img width="960" alt="g99" src="https://user-images.githubusercontent.com/71979122/123902714-f4c1fc00-d98a-11eb-8a01-a42da60c5efe.png">
 
-In this we have created 4 coloum_name:
+#### 🍕 In this we have created 4 coloum_name:
 
 1. id -> Auto increment, primary key 
 2. username
 3. email
 4. password
-Here in it we will store the value inputed in register information.
 
+Here in it we will store the value inputed in register information.
 
 #### 🔦 So here are some values which is inputed by user while using this website:
 
 <img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
 
-### Note: (apply for all structure and interface )-> id data type is int and other coloumns data type is varchar.
+### ⚠️🌟 Note: (apply for all structure and interface )-> id data type is int and other coloumns data type is varchar.
 
 # 🔥 This Project Is Made By
 1. Subhadip Patra 
