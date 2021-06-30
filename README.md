@@ -64,7 +64,7 @@ In this we have created 5 coloumn name:
 4. product_image
 5. product_code
 
-###### Here are the some list of products which I have added
+#### Here are the some list of products which I have added
 <img width="960" alt="g4" src="https://user-images.githubusercontent.com/71979122/123843723-d7137900-d92f-11eb-9c37-e7102c967b8e.png">
 
 
@@ -88,7 +88,8 @@ In this we have created 4 coloum_name:
 4. password
 Here in it we will store the value inputed in register information.
 
-So here are some values which is inputed by user while using this website:
+
+#### So here are some values which is inputed by user while using this website:
 
 <img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
 
