@@ -2,10 +2,14 @@
 
 ## 🍦 Website Demo In 3 Parts:
 
+
 ### 🍰 Login Page:
+
 ![web1](https://user-images.githubusercontent.com/71979122/123946361-be9d7000-d9bc-11eb-8bb8-c08e1459267f.gif)
 
+
 ### 🍫 Food Items, Add To Cart, Thank You Page and Log Out
+
 ![web 2](https://user-images.githubusercontent.com/71979122/123946556-f7d5e000-d9bc-11eb-8a5b-eea10211a1aa.gif)
 
 
