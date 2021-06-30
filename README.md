@@ -71,6 +71,7 @@ In this we have created 5 coloumn name:
 # login_register_pure_coding
 ### Interface 1 table in database:
 <img width="960" alt="g6" src="https://user-images.githubusercontent.com/71979122/123844575-d62f1700-d930-11eb-93fe-f54b452474d8.png">
+
 ###### Only 1 table that is users.
 
 ### Interface 2 values in users:
