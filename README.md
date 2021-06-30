@@ -12,11 +12,12 @@ This is the food ordering website. In this we have used these technologies:
 * IDE Or Text - Editor for coding(I have used - Visual studio Code).
 
 Here are two folder you have to paste this folder in: 
-C: >> xampp >> htdocs
+##### C: >> xampp >> htdocs
 
 So These are the databases name which are used in the food ordering system.
-1. login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
-2. shopping-cart OR cart_system-> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
+
+* login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
+* shopping-cart OR cart_system-> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
 
 # 🚀 cart_system
 This is shopping-cart database.
