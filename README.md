@@ -42,20 +42,22 @@ In this we have created 7 column name:
 <img width="960" alt="g3" src="https://user-images.githubusercontent.com/71979122/123843160-36bd5480-d92f-11eb-95a5-a5ef164555f3.png">
 
  In this we have created 8 column name:
-* 1. id -> Auto increment, primary key 
-* 2. name
-* 3. email 
-* 4. phone 
-* 5. address 
-* 6. pmode
-* 7. products
-* 8. amount_paid
+ 
+1. id -> Auto increment, primary key 
+2. name
+3. email 
+4. phone 
+5. address 
+6. pmode
+7. products
+8. amount_paid
 
 ### Interface 4 structure of products:
-<img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
-
 Here you have to add products details
-###### In this we have created 5 coloumn name
+
+<img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
+In this we have created 5 coloumn name:
+
 1. id -> Auto increment, primary key 
 2. product_name
 3. product_price 
@@ -72,10 +74,13 @@ Here you have to add products details
 ###### Only 1 table that is users.
 
 ### Interface 2 values in users:
+
 So here is the structure of users:
+
 <img width="960" alt="g99" src="https://user-images.githubusercontent.com/71979122/123902714-f4c1fc00-d98a-11eb-8a01-a42da60c5efe.png">
 
-###### In this we have created 4 coloum_name:
+In this we have created 4 coloum_name:
+
 1. id -> Auto increment, primary key 
 2. username
 3. email
