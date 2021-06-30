@@ -1,5 +1,5 @@
 # Food-Point 🍪
-This is the food ordering website. In this we have used these technologies:
+#### This is the food ordering website. In this we have used these technologies:
 
 * 🔭 PHP
 * 💣 CSS
@@ -11,10 +11,10 @@ This is the food ordering website. In this we have used these technologies:
 * xampp - For database
 * IDE Or Text - Editor for coding(I have used - Visual studio Code).
 
-Here are two folder you have to paste this folder in: 
+#### Here are two folder you have to paste this folder in: 
 ##### C: >> xampp >> htdocs
 
-So These are the databases name which are used in the food ordering system.
+#### So These are the databases name which are used in the food ordering system.
 
 * login_register_pure_coding -> This database name is used for taking login information and collecting data for register user.
 * shopping-cart OR cart_system-> This database name is used for order items, products adding or deleting and cart in which we can see which product is currently in cart.
