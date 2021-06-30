@@ -20,15 +20,15 @@ So These are the databases name which are used in the food ordering system.
 This is shopping-cart database.
 ### Interface 1:
 <img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
-###### In this there are 3 tables:
+In this there are 3 tables:
 
-1. cart -> This will show items currently present in a user cart.
-2. orders -> This is storing the informatio of address, name, email and phone.
-3. product -> This is where we store products name, products price, product image, product code and id.
+* 1. cart -> This will show items currently present in a user cart.
+* 2. orders -> This is storing the informatio of address, name, email and phone.
+* 3. product -> This is where we store products name, products price, product image, product code and id.
 
 ### Interface 2 structure of cart:
 <img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
-##### In this we have created 7 column name:
+In this we have created 7 column name:
 1. id -> Auto increment, primary key 
 2. product_name 
 3. product_price
