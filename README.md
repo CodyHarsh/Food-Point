@@ -29,6 +29,7 @@ In this there are 3 tables:
 ### Interface 2 structure of cart:
 <img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
 In this we have created 7 column name:
+
 1. id -> Auto increment, primary key 
 2. product_name 
 3. product_price
