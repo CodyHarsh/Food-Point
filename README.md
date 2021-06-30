@@ -29,26 +29,26 @@ In this there are 3 tables:
 ### Interface 2 structure of cart:
 <img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
 In this we have created 7 column name:
-1. id -> Auto increment, primary key 
-2. product_name 
-3. product_price
-4. product_image
-5. qty
-6. total price
-7. product_code
+* 1. id -> Auto increment, primary key 
+* 2. product_name 
+* 3. product_price
+* 4. product_image
+* 5. qty
+* 6. total price
+* 7. product_code
 
 ### Interface 3 structure of orders:
 <img width="960" alt="g3" src="https://user-images.githubusercontent.com/71979122/123843160-36bd5480-d92f-11eb-95a5-a5ef164555f3.png">
 
-###### In this we have created 8 column name:
-1. id -> Auto increment, primary key 
-2. name
-3. email 
-4. phone 
-5. address 
-6. pmode
-7. products
-8. amount_paid
+ In this we have created 8 column name:
+* 1. id -> Auto increment, primary key 
+* 2. name
+*3. email 
+*4. phone 
+*5. address 
+*6. pmode
+*7. products
+*8. amount_paid
 
 ### Interface 4 structure of products:
 <img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
