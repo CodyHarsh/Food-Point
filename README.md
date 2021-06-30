@@ -32,7 +32,7 @@ This is shopping-cart database.
 
 ### 👉 Interface 2 structure of cart:
 <img width="960" alt="g2" src="https://user-images.githubusercontent.com/71979122/123842241-2eb0e500-d92e-11eb-9dd7-eab7e4b17a00.png">
-In this we have created 7 column name:
+#### 🍕 In this we have created 7 column name:
 
 1. id -> Auto increment, primary key 
 2. product_name 
@@ -60,6 +60,7 @@ In this we have created 7 column name:
 Here you have to add products details
 
 <img width="960" alt="g5" src="https://user-images.githubusercontent.com/71979122/123843976-180b8d80-d930-11eb-9852-8e22652e71df.png">
+
 #### 🍕 In this we have created 5 coloumn name:
 
 1. id -> Auto increment, primary key 
