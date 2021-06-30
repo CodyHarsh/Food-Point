@@ -72,7 +72,7 @@ In this we have created 5 coloumn name:
 ### Interface 1 table in database:
 <img width="960" alt="g6" src="https://user-images.githubusercontent.com/71979122/123844575-d62f1700-d930-11eb-93fe-f54b452474d8.png">
 
-###### Only 1 table that is users.
+Only 1 table that is users.
 
 ### Interface 2 values in users:
 
@@ -87,7 +87,9 @@ In this we have created 4 coloum_name:
 3. email
 4. password
 Here in it we will store the value inputed in register information.
-###### So here are some values which is inputed by user while using this website:
+
+So here are some values which is inputed by user while using this website:
+
 <img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
 
 #### Note: (apply for all structure and interface )-> id is int and rest are varchar.
