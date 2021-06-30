@@ -82,7 +82,7 @@ Here in it we will store the value inputed in register information.
 So here are some values which is inputed by user while using this website:
 <img width="960" alt="glast" src="https://user-images.githubusercontent.com/71979122/123844881-302fdc80-d931-11eb-8bce-b114a2d46148.png">
 
-###### Note(apply for all structure and interface ): id is int and rest are varchar.
+##### Note(apply for all structure and interface ): id is int and rest are varchar.
 
 # This Project Is Made By
 1. Subhadip Patra 
