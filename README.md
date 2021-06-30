@@ -6,7 +6,7 @@ This is the food ordering website. In this we have used these technologies:
 * 📣 Javascript
 * ▶️ My Sql
 * 📃 HTML
-* 
+
 #### Software needed for this 😀:
 * xampp - For database
 * IDE Or Text - Editor for coding(I have used - Visual studio Code).
