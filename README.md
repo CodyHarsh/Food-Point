@@ -5,7 +5,7 @@ This is the food ordering website. In this we have used these technologies:
 3. Javascript
 4. My Sql
 5. HTML
-Software needed for this:
+## Software needed for this:
 1. xampp - For database
 2. IDE Or Text - Editor for coding(I have used - Visual studio Code).
 
