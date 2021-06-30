@@ -1,4 +1,4 @@
-# Food-Point
+# Food-Point 🍪
 This is the food ordering website. In this we have used these technologies:
 
 * 🔭 PHP
@@ -6,9 +6,10 @@ This is the food ordering website. In this we have used these technologies:
 * 📣 Javascript
 * ▶️ My Sql
 * 📃 HTML
+* 
 #### Software needed for this 😀:
-1. xampp - For database
-2. IDE Or Text - Editor for coding(I have used - Visual studio Code).
+* xampp - For database
+* IDE Or Text - Editor for coding(I have used - Visual studio Code).
 
 Here are two folder you have to paste this folder in: 
 C: >> xampp >> htdocs
