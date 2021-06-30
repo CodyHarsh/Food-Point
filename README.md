@@ -21,6 +21,7 @@ This is shopping-cart database.
 ### Interface 1:
 <img width="960" alt="g1" src="https://user-images.githubusercontent.com/71979122/123840718-4dae7780-d92c-11eb-9e4c-854e67ab7330.png">
 ###### In this there are 3 tables:
+
 1. cart -> This will show items currently present in a user cart.
 2. orders -> This is storing the informatio of address, name, email and phone.
 3. product -> This is where we store products name, products price, product image, product code and id.
