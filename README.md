@@ -12,6 +12,7 @@
 ### 🍿 Thank You Page and Log Out
 ![gif3 `](https://user-images.githubusercontent.com/71979122/123917869-e54dad80-d9a0-11eb-931c-dbe98095e0a0.gif)
 
+# Food-Point 🍪
 
 #### This is the food ordering website. In this we have used these technologies:
 
