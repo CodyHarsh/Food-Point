@@ -1,4 +1,18 @@
 # Food-Point 🍪
+
+## 🍦 Website Demo In 3 Parts:
+
+### 🍰 Login Page:
+![gif1](https://user-images.githubusercontent.com/71979122/123917652-a6b7f300-d9a0-11eb-8724-e9fae5f13952.gif)
+
+### 🍫 Food Items And Add To Cart
+![gif 2 (1)](https://user-images.githubusercontent.com/71979122/123918888-f4812b00-d9a1-11eb-9435-fe964b28c8ff.gif)
+
+
+### 🍿 Thank You Page and Log Out
+![gif3 `](https://user-images.githubusercontent.com/71979122/123917869-e54dad80-d9a0-11eb-931c-dbe98095e0a0.gif)
+
+
 #### This is the food ordering website. In this we have used these technologies:
 
 * 🥄 PHP
