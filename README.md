@@ -18,11 +18,13 @@
 
 #### This is the food ordering website. In this we have used these technologies:
 
-* 🥄 PHP
+* <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>PHP
 * 🥤 CSS
 * 🧉 Javascript
 * ☕ My Sql
 * 🎂 HTML
+* 🥣Bootsrap
+* 🍚Ajax
 
 #### 🥛 Software needed for this :
 * xampp - For database
