@@ -1,6 +1,6 @@
 # Food-Point 🍪
 
-## 🍦 Website Demo In 3 Parts:
+## 🍦 Website Demo In 2 Parts:
 
 
 ### 🍰 Login Page:
