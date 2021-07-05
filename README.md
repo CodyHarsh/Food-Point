@@ -18,7 +18,7 @@
 
 #### This is the food ordering website. In this we have used these technologies:
 
-* <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>PHP
+* <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>PHP
 * 🥤 CSS
 * 🧉 Javascript
 * ☕ My Sql
