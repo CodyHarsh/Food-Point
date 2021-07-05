@@ -31,6 +31,11 @@
 #### 🥢 Here are two folder you have to paste this folder in: 
 ##### C: >> xampp >> htdocs
 
+## 🍟 Copy Database Into your xampp localhost:
+Web-browser(Eg: Chrome) >> localhost/myphpadmin(Type this in top of the page) >> Create two new database with name: 
+* cart_system (database name) >> import >> choose file >>xampp >>htddoc >> shopping-cart >> cart_system.sql >> go
+* login_register_pure_coding  >> import >> choose file >>xampp >>htddoc >> login_register_pure_coding >> database.sql >> go
+
 #### 🥃 So These are the databases name which are used in the food ordering system.
 
 * login_register_pure_coding: This database name is used for taking login information and collecting data for register user.
