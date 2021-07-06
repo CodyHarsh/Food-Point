@@ -128,6 +128,6 @@ Here in it we will store the value inputed in register information.
 # 🥂 This Project Is Made By
 1. Subhadip Patra 
 2. Ananya Singh
-3. Rohit Saw
+3. Rohit Shaw
 4. Harsh
 
