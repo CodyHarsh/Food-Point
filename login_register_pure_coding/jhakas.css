@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+.buttons button{
+  position: relative;
+  height: 60px;
+  width: 200px;
+  margin: 0 35px;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  background: #111;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.5s;
+}
+.buttons button:first-child:hover{
+  background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+  background-size: 400%;
+}
+
+
+.buttons button:last-child:hover{
+  background: linear-gradient(90deg, #fa7199, #f5ce62, #e43603, #fa7199);
+  background-size: 400%;
+}
+.buttons button:first-child:before,
+.buttons button:last-child:before{
+  content: '';
+  position: absolute;
+  background: inherit;
+  top: -5px;
+  right: -5px;
+  bottom: -5px;
+  left: -5px;
+  border-radius: 50px;
+  filter: blur(20px);
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.buttons button:first-child:hover:before,
+.buttons button:last-child:hover:before{
+  opacity: 1;
+  z-index: -1;
+}
+.buttons button:hover{
+  z-index: 1;
+  animation: glow 8s linear infinite;
+}
+@keyframes glow {
+  0%{
+    background-position: 0%;
+  }
+  100%{
+    background-position: 400%;
+  }
+}
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+
+}
+.logo{
+    width: 50px;
+    cursor: pointer;
+}
+.navbar {
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+button{
+    font-size: 30px;
+    color: #fbfcfb;
+    padding: 15px 30px ; 
+    background:transparent;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+}
+.content{
+    color: #0dff0d;
+    position: absolute;
+    top:50%;
+    left: 8%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.content small{
+    font-size: 40px;
+    color: rgb(255, 205, 205);
+    font-family:New Century Schoolbook, TeX Gyre Schola, serif ;
+    font-weight: bold;
+    margin: 10px 0 30px ;
+    line-height: 80px;
+}
+
+.side-bar{
+    width: 50px;
+    height:100vh;
+    background: linear-gradient(#00545d,#000729);
+    position: absolute;
+    right: 0;
+    top:0;
+}
+.menu{
+    display:block;
+    width: 25px;
+    margin: 40px auto 0;
+    cursor: pointer;
+
+}
+.strawberry img{
+    width: 100px;
+animation:strawberry 7s linear infinite ;
+}
+.strawberry  {
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 0;
+}
+@keyframes strawberry {
+    0%{
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    50%{
+        
+        opacity: 1;    
+    }
+
+    70%{
+        
+        opacity: 1;      
+    }
+
+    100%{
+        transform: translateY(-80vh);
+        opacity: 0;        
+    }
+
+   
+}
+.strawberry img:nth-child(1){
+    animation-delay:2s;  
+}
+
+.strawberry img:nth-child(2){
+    animation-delay:1s;  
+}
+
+.strawberry img:nth-child(3){
+    animation-delay:3s;  
+}
+
+.strawberry img:nth-child(4){
+    animation-delay:4.5s;  
+}
+
+.strawberry img:nth-child(5){
+    animation-delay:3s;  
+}
+
+.strawberry img:nth-child(6){
+    animation-delay:6s;  
+}
+
+.strawberry img:nth-child(7){
+    animation-delay:7s;  
+}
+
+
+.buttons1 button{
+    position: relative;
+    height: 60px;
+    width: 200px;
+    margin: 0 35px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background: #111;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.5s;
+  }
+  .buttons1 button:first-child:hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+  }
+  
+  
+  .buttons1 button:last-child:hover{
+    background: linear-gradient(90deg, #fa7199, #f5ce62, #e43603, #fa7199);
+    background-size: 400%;
+  }
+  .buttons1 button:first-child:before,
+  .buttons1 button:last-child:before{
+    content: '';
+    position: absolute;
+    background: inherit;
+    top: -5px;
+    right: -5px;
+    bottom: -5px;
+    left: -5px;
+    border-radius: 50px;
+    filter: blur(20px);
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .buttons1 button:first-child:hover:before,
+  .buttons1 button:last-child:hover:before{
+    opacity: 1;
+    z-index: -1;
+  }
+  .buttons1 button:hover{
+    z-index: 1;
+    animation: glow 8s linear infinite;
+  }
+  @keyframes glow {
+    0%{
+      background-position: 0%;
+    }
+    100%{
+      background-position: 400%;
+    }
+  }
+
+  
+  .container{
+    margin-top: 20%;
+    margin-left: 60%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+  }
+  .container span{
+    text-transform: uppercase;
+    display: block;
+  }
+  .text1{
+    color: peachpuff;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    margin-bottom: 10px;
+    animation: text 3s 1;
+  }
+  .text2 h2{
+    font-size: 40px;
+    color: peachpuff;
+  }
+  
+  @keyframes text {
+    0%{
+      color: black;
+      margin-bottom: -40px;
+    }
+    30%{
+      letter-spacing: 25px;
+      margin-bottom: -40px;
+    }
+    85%{
+      letter-spacing: 8px;
+      margin-bottom: -40px;
+    }
+  }
