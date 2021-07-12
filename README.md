@@ -1,16 +1,27 @@
 # Food-Point 🍪
 
-## 🍦 Website Demo In 2 Parts:
+## 🍦 Website Demo In 4 Parts:
 
 
-### 🍰 Login Page:
+### 🍰 Register Page:
 
-![web1](https://user-images.githubusercontent.com/71979122/123946361-be9d7000-d9bc-11eb-8bb8-c08e1459267f.gif)
+![gif1](https://user-images.githubusercontent.com/71979122/125310225-0672ae80-e350-11eb-9f7b-b0fcfb49e9f6.gif)
 
 
-### 🍫 Food Items, Add To Cart, Thank You Page and Log Out
+### 🍚 Login Page:
 
-![web 2](https://user-images.githubusercontent.com/71979122/123946556-f7d5e000-d9bc-11eb-8a5b-eea10211a1aa.gif)
+![GIF2](https://user-images.githubusercontent.com/71979122/125314853-30c66b00-e354-11eb-9574-c2a49a2e7afe.gif)
+
+
+
+### 🍫 Food Items, Add To Cart
+
+![GIF3](https://user-images.githubusercontent.com/71979122/125313895-51da8c00-e353-11eb-8a9c-e79c50f51d6f.gif)
+
+
+### 🥪 Thank You Page and Log Out
+
+![GIF4](https://user-images.githubusercontent.com/71979122/125314132-8d755600-e353-11eb-803d-93ede42a7c88.gif)
 
 
 
