@@ -137,8 +137,5 @@ Here in it we will store the value inputed in register information.
 ### 🍹 Note: (apply for all structure and interface )-> id data type is int and other coloumns data type is varchar.
 
 # 🥂 This Project Is Made By
-1. Subhadip Patra 
-2. Ananya Singh
-3. Rohit Shaw
-4. Harsh
+1. Harsh
 
